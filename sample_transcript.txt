@@ -1,0 +1,36 @@
+Sprint Planning — Agilow Pre-Pilot
+
+Me: Okay so, um, let's get going. Shiv, what are you taking on this week?
+
+Them: Yeah so my main goal is to create visibility of work by putting together
+the PM documentation for the cross-program needs. I'm going to document the
+CONOPS and the RHA in the pre-pilot timeline, list out the vendors we need to
+manage, and list the EPICs correlated to each workstream. I'd say that's about 2
+points. Success looks like — the ops schedule, vendors, and the software
+workstream and EPICs are all visible, estimated, and prioritized.
+
+Me: Anything blocking you on that?
+
+Them: I'll need Antonio to support the in-office facilitation Monday and Tuesday,
+and to help with decision making on tooling and operational support. One risk is
+that Keith is only available for two days, which makes decisions after Tuesday
+hard — to mitigate, I'll cover everything on the whiteboard Monday and Tuesday
+and shift focus to the software migration starting Tuesday evening.
+
+Me: Great. Anything else?
+
+Them: Yes, second goal — I will get the North Star document shared with Keith and
+Reeg. I'm going to document the high-level initiatives from the original
+contract and set goals and success criteria for each initiative with timelines.
+Call it 2 points. Success criteria: the North Star doc is reviewed and shared
+with Keith and Reeg by end of week. Oh and my kaizen this week is to create a
+timeline on the whiteboard of the program deliverables and EPICs.
+
+Me: Perfect. Antonio, your turn.
+
+Antonio: Mera ek hi goal hai is hafte — I will deliver the Program Schedule for
+Pilot Phase 1 to JR. I'll deliver it to Keith and Reeg in MS Planner and PDF
+format. That's 1 point. Success is — the program schedule is sent and
+acknowledged by Keith and Reeg.
+
+Me: Awesome, thanks everyone.

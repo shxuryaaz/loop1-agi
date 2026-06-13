@@ -1,0 +1,16 @@
+# Render Blueprint for the Agilow Loop 1 backend.
+# In the Render dashboard: New + > Blueprint, point it at this repo.
+# Set the OPENAI_API_KEY and ALLOWED_ORIGINS env vars in the service settings.
+services:
+  - type: web
+    name: agilow-loop1-backend
+    runtime: python
+    rootDir: backend
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: ALLOWED_ORIGINS
+        sync: false
